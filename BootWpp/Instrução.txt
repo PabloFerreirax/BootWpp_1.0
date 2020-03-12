@@ -1,0 +1,6 @@
+1) Importar a bliblioteca Selenium com base nestes arquivos.
+
+2) Baixar o chromeDriver com base na sua versão atual do chrome...
+Siga o link caso este que estou disponibilizando não for compativel
+
+Link: https://chromedriver.chromium.org/downloads
